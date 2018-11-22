@@ -14,7 +14,7 @@ security:
   user:
     name: pig # 定义用户名
     password: gip6666 # 定义密码
-
+  NoSuchLabelException
 eureka:
   client:
     fetch-registry: false
